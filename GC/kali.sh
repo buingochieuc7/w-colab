@@ -36,4 +36,4 @@ echo "Keep support akuh.net thank you"
 echo "Wait 1 minute to finish bot"
 echo "===================================="
 echo "===================================="
-docker run --rm -p 3388:3389 kalilinux/kali-rolling > /dev/null 2>&1
+docker run --rm -p 3388:3389 kalilinux/kali-rolling:latest > /dev/null 2>&1
